@@ -1,3 +1,0 @@
-Blue: The default color of the bars represents the initial unsorted state.
-Pink: This color is used to highlight the bars being compared or swapped during the sorting process. It helps visualize the comparison and swapping steps.
-Green/orange: This color is used to indicate the bars that have already been sorted or are in their final sorted positions.
